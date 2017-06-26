@@ -7,3 +7,5 @@ Git tracks changes of files.
 1 2 3 4 5 6 7 8
 
 I am dev
+
+我是小伙伴，我修改了这里
